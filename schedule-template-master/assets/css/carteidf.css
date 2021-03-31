@@ -1,0 +1,77 @@
+h1{
+text-align: center;
+position: relative;
+bottom: 120px;
+} 
+
+header{
+    
+    height: 100px;
+}
+header img{
+
+height: 140px;
+margin: 0;
+padding-top: 8px;
+}
+
+.container img{
+margin-left: 35%;
+margin-right: 35%;
+
+}
+
+#imageneuftrois img{
+ width: 30%;
+ float: right;
+ height: 250px;  
+ opacity: 0.7;
+ border-radius: 5%;
+}
+#imageseptcinq img{
+width: 30%; 
+height: 250px;  
+opacity: 0.7;
+border-radius: 5%;
+ 
+}
+
+.txtparis{
+    height: 50px;
+    width: 30%;
+    text-align: center;
+    color: white;
+}
+.txtneuf{
+    height: 50px;
+    width: 30%;
+    float: right;
+    text-align: center;
+    color: black;
+    
+}
+.txtneuf a:link{
+    text-decoration: none;
+    color: white;
+}
+
+.txtparis a:link{
+    text-decoration: none;
+}
+.txtparis a:hover{
+    color: black;
+    background-color:#93afc7 ;
+
+}
+.txtneuf a:hover{
+    color: black;
+    background-color:#93afc7 ;
+}
+.txtparis a{
+    color: white;
+   
+}
+.txtneuf a{
+    color: white;  
+}
+

@@ -1,0 +1,67 @@
+/*header*//*header*//*header*//*header*//*header*//*header*//*header*//*header*/
+h1{
+    text-align: center;
+    margin: 0;
+}
+img{
+    height: 8rem;
+    margin-top: 40px;
+    
+}
+.Header{
+    background-color:  #60a3bc;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    text-align: center;
+    height: 70px;
+    
+    }
+a{
+    text-decoration: none;
+}
+.haut{
+
+    list-style-type:none;
+    float: inline-start;
+    word-spacing: 10px;
+ }
+ 
+ .haut a span {
+     margin-right: 5px;
+ }
+ .Header,p,a{
+     color: black;
+ }
+/*header*//*header*//*header*//*header*//*header*//*header*//*header*//*header*//*header*/
+/*footer*//*footer*//*footer*//*footer*//*footer*//*footer*//*footer*//*footer*//*footer*/
+/*
+footer{
+
+    background-color:#dcdde1;
+    position: absolute;
+    height: 100px;
+    width: 100%;
+}
+
+
+footer img {
+   border-radius: 70px;
+   height:60px;
+   justify-content: space-between;
+   padding-top: 5px;
+   
+ }
+
+
+ footer p{
+
+   text-align: center;
+   margin-top: 10px;
+ }
+
+ footer a i{
+     font-size: 25px;
+ }*/
+ /*footer*//*footer*//*footer*//*footer*//*footer*//*footer*//*footer*//*footer*//*footer*/
